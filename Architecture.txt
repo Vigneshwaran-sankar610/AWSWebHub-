@@ -1,0 +1,9 @@
+User Browser
+   ↓
+Nginx (Reverse Proxy)
+   ↓
+Frontend (React)
+   ↓
+Backend API (Node.js + Express)
+   ↓
+Database (MongoDB)
